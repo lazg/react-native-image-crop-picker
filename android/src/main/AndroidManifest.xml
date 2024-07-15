@@ -1,6 +1,5 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.reactnative.ivpusic.imagepicker">
-
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+namespace = "com.reactnative.ivpusic.imagepicker"
     <queries>
         <intent>
             <action android:name="android.media.action.IMAGE_CAPTURE" />
